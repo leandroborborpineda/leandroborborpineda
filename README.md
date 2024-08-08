@@ -14,10 +14,20 @@ Dentro de esta cuenta se han realizado varios proyectos que fueron tareas del mi
 - **Predicción de costo de un automovil:** Para este proyecto se utilizó una base de datos donde se tienen características mecánicas, físicas y precios de una gran cantidad de automóviles de diferentes modelos, marcas y tipos con sus respectivos precios. Utilizando esta información se implementaron modelos de machine learning con los cuales se buscó predecir el costo de los automóviles.
 - **Clasificación de reseñas:** Dada una base de datos donde se tiene reseñas de diferentes películas se realizó el procesamiento de los datos, lematizó las palabras y se generó un modelo con machine learning con el cual se clasificó las reseñas entre positivas y negativas.
 
+---
 
-- 🔭 I’m currently working on: Corte Nacional de Justicia, como analísta de TICs
-- 🌱 I’m currently learning: Ciencia de datos, Github, Programación Python, Power BI, 
-- 👯 I’m looking to collaborate on: Cualquier proyecto de ciencia de datos para tener mas experiencia
+💻 Tecnologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0A387D?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+- 🔭 Actualmente trabajo en: Corte Nacional de Justicia, como analísta de TICs
+- 🌱 Estoy aprendiendo: Ciencia de datos, Github, Programación Python, Power BI, 
+- 👯 Estoy dispuesto a colaborar en: Cualquier proyecto de ciencia de datos para tener mas experiencia
 
 
 ## Contacto
