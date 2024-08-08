@@ -32,5 +32,6 @@ Dentro de esta cuenta se han realizado varios proyectos que fueron tareas del mi
 
 ## Contacto
 - **LinkedIn:** leandroborborpineda
+- - **Correo:** leandroborbor@gmail.com
 
 
